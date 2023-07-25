@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manthangowda10
-- 👀 I’m interested in learnin new technologies
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - manthangwd10@gmail.com

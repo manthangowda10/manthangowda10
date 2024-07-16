@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - manthangwd10@gmail.com
+- 📫 How to reach me - manthanrgowda10@gmail.com
 
 <!---
 manthangowda10/manthangowda10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
